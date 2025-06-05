@@ -1,5 +1,11 @@
-Привет, друзья!
 
+
+ # BombGame
+<p align="center">
+  <img src="https://github.com/Marat-FMK/BombGame/blob/develop/Bomb.png" alt="Bomb game app" width="1000"/>
+</p>
+
+Привет, друзья!
 Приложение для игры в веселой компании - это игра БОМБА.
 
 Приложение позволяет играть с друзьями и задавать веселые вопросы.
@@ -16,10 +22,10 @@
 
 ### Над приложением трудились
 <p align="left"> 
-<a href="https://github.com/linnitel">
-<img src="https://img.shields.io/badge/Julia (Team leader) -purple"/></a>
 <a href="https://github.com/Marat-FMK">
 <img src="https://img.shields.io/badge/Marat-FMK-blue"/></a>
+<a href="https://github.com/linnitel">
+<img src="https://img.shields.io/badge/Julia (Team leader) -purple"/></a>
 <a href="https://github.com/AndreyVZav">
 <img src="https://img.shields.io/badge/Andrey-pink"/></a>
 <a href="https://github.com/Gerodot">
@@ -61,3 +67,6 @@
 ### Другие возможности:
 * Дополняется... ;)
 
+## 📂Clone the repository:
+   ```bash
+https://github.com/Marat-FMK/BombGame.git
